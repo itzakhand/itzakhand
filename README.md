@@ -40,9 +40,9 @@
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 [![Twitter: itzakhand](https://img.shields.io/twitter/follow/akhandsingh?style=social)](https://twitter.com/@AkhandP00857965)
-[![Linkedin: itzakhand](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)]
+[![Linkedin: itzakhand](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itzakhand/)]
 [![GitHub itzahand](https://img.shields.io/github/followers/itzakand?label=follow&style=social)](https://github.com/itzakhand)
-[![website](https://img.shields.io/badge/ProfileWebsite-HI-MEMBERS-2648ff?style=flat-square&logo=google-chrome)](https://cse-bbs.netlify.app/)
+[![website](https://img.shields.io/badge/ProfileWebsite-https://cse-bbs.netlify.app/-2648ff?style=flat-square&logo=google-chrome)](https://cse-bbs.netlify.app/)
 
 
 **Languages and Tools:**  
@@ -65,7 +65,7 @@
 
 </a>
 <a href="https://github.com/itzakhand/py-matrix-calculator">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itzkhand&repo=py-matrix-calculatorX&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itzakhand&repo=py-matrix-calculatorX&theme=light" />
 </a>
 
 <div align="center">
