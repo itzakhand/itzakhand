@@ -55,17 +55,17 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/itzakhand">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzakhand&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/itzakhand">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Akhand's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=itzakhand&show_icons=true&theme=light&line_height=27" alt="Akhand's github stats"/>
 </a>
 <a href="https://github.com/itzakhand/insta-dp-downloader">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itzakhand&repo=insta-dp-downloader&theme=light" />
 
 </a>
 <a href="https://github.com/itzakhand/py-matrix-calculator">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itzkhand&repo=py-matrix-calculatorX&theme=light" />
 </a>
 
 <div align="center">
