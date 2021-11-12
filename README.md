@@ -42,7 +42,7 @@
 [![Twitter: itzakhand](https://img.shields.io/twitter/follow/akhandsingh?style=social)](https://twitter.com/@AkhandP00857965)
 [![Linkedin: itzakhand](https://img.shields.io/badge/-akhandsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/feed/)]
 [![GitHub itzahand](https://img.shields.io/github/followers/itzakhand?label=follow&style=social)](https://github.com/itzakhand)
-[![website](https://img.shields.io/badge/PortfolioWebsite-akhand.live-2648ff?style=flat-square&logo=google-chrome)](https://cse-bbs.netlify.app/)
+[![website](https://img.shields.io/badge/ProfileWebsite-akhand.live-2648ff?style=flat-square&logo=google-chrome)](https://cse-bbs.netlify.app/)
 
 
 **Languages and Tools:**  
