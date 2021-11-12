@@ -42,7 +42,7 @@
 [![Twitter: itzakhand](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/@AkhandP00857965)
 [![Linkedin: itzakhand](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)]
 [![GitHub itzahand](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/itzakhand)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)(https://cse-bbs.netlify.app/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://cse-bbs.netlify.app/)
 
 
 **Languages and Tools:**  
@@ -61,11 +61,11 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 <a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
+  <img align="center" src="https://github.com/itzakhand/py-matrix-calculator" />
 
 </a>
 <a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+ <img align="center" src="https://github.com/itzakhand/insta-dp-downloader" />
 </a>
 
 <div align="center">
