@@ -22,7 +22,7 @@
 <a href="https://www.facebook.com//">
   <img align="left" alt="Akhand's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/mtechviral/">
+<a href="https://www.youtube.com//">
   <img align="left" alt="Akhnad's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
@@ -39,10 +39,10 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
-[![Twitter: itzakhand](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/@AkhandP00857965)
+[![Twitter: itzakhand](https://img.shields.io/twitter/follow/akhandsingh?style=social)](https://twitter.com/@AkhandP00857965)
 [![Linkedin: itzakhand](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)]
-[![GitHub itzahand](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/itzakhand)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://cse-bbs.netlify.app/)
+[![GitHub itzahand](https://img.shields.io/github/followers/itzakand?label=follow&style=social)](https://github.com/itzakhand)
+[![website](https://img.shields.io/badge/ProfileWebsite-HI-MEMBERS-2648ff?style=flat-square&logo=google-chrome)](https://cse-bbs.netlify.app/)
 
 
 **Languages and Tools:**  
@@ -54,18 +54,18 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/itzakhand">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+<a href="https://github.com/itzakhand">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Akhand's github stats"/>
 </a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github.com/itzakhand/py-matrix-calculator" />
+<a href="https://github.com/itzakhand/insta-dp-downloader">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
 
 </a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github.com/itzakhand/insta-dp-downloader" />
+<a href="https://github.com/itzakhand/py-matrix-calculator">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
 </a>
 
 <div align="center">
