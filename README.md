@@ -30,13 +30,13 @@
 <br/>
 
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning more about BlockChain.
-- 👯 I’m looking to collaborate on [Youtube].
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: instragram-@akhandsingh_ads
-- 😄 Pronouns: He/His
+- 🔭 I’m currently working on Website Development.
+- 🌱 I’m currently learning more about Web Development.
+- 👯 I’m looking to collaborate on GitHub.
+- 🤔 I’m looking for help with current project documentation.
+- 💬 Ask me about web or any tech-related stuff.
+- 📫 How to reach me: instragram @www.instagram.com/akhandsingh_ads
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 [![Twitter: itzakhand](https://img.shields.io/twitter/follow/akhandsingh?style=social)](https://twitter.com/@AkhandP00857965)
