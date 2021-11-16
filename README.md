@@ -2,7 +2,7 @@
 
 ## Hola, I'm [Akhand Pratap Singh!] 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzakhand&label=Views&color=blue&style=plastic" alt="itzakhand" /> </p>
 
 <a href="https://twitter.com/@AkhandP00857965">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
