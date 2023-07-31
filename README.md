@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzakhand&label=Views&color=blue&style=plastic" alt="itzakhand" /> </p>
 
-<a href="https://twitter.com/@AkhandP00857965">
+<a href="https://twitter.com/@theakhandsingh">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/feed/">
@@ -16,7 +16,7 @@
 <a href="https://t.me/@akhandsingh_ads">
   <img align="left" alt="Akhand's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/akhandsingh_ads/">
+<a href="https://instagram.com/theakhandsingh/">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com//">
